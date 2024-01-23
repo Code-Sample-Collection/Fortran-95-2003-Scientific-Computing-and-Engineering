@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "解算", "解算\解算.vfproj", "{49935215-BDEE-4043-8E38-0F4EE5C40AA6}"
+EndProject
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "仿真", "仿真\仿真.vfproj", "{C70C8B6B-5925-4E28-8149-B6C0AAE0E879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49935215-BDEE-4043-8E38-0F4EE5C40AA6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{49935215-BDEE-4043-8E38-0F4EE5C40AA6}.Debug|Win32.Build.0 = Debug|Win32
+		{49935215-BDEE-4043-8E38-0F4EE5C40AA6}.Release|Win32.ActiveCfg = Release|Win32
+		{49935215-BDEE-4043-8E38-0F4EE5C40AA6}.Release|Win32.Build.0 = Release|Win32
+		{C70C8B6B-5925-4E28-8149-B6C0AAE0E879}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C70C8B6B-5925-4E28-8149-B6C0AAE0E879}.Debug|Win32.Build.0 = Debug|Win32
+		{C70C8B6B-5925-4E28-8149-B6C0AAE0E879}.Release|Win32.ActiveCfg = Release|Win32
+		{C70C8B6B-5925-4E28-8149-B6C0AAE0E879}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

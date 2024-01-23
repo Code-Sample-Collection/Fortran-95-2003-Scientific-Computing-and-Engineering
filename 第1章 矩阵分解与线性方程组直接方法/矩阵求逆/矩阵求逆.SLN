@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "矩阵求逆", "矩阵求逆\矩阵求逆.vfproj", "{462948ED-A5B8-4C4E-ACBF-32A627390E30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{462948ED-A5B8-4C4E-ACBF-32A627390E30}.Debug|Win32.ActiveCfg = Debug|Win32
+		{462948ED-A5B8-4C4E-ACBF-32A627390E30}.Debug|Win32.Build.0 = Debug|Win32
+		{462948ED-A5B8-4C4E-ACBF-32A627390E30}.Release|Win32.ActiveCfg = Release|Win32
+		{462948ED-A5B8-4C4E-ACBF-32A627390E30}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

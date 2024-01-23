@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "牛顿插值", "牛顿插值\牛顿插值.vfproj", "{47C2ACE8-1EFE-4242-A558-5701D120789E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47C2ACE8-1EFE-4242-A558-5701D120789E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47C2ACE8-1EFE-4242-A558-5701D120789E}.Debug|Win32.Build.0 = Debug|Win32
+		{47C2ACE8-1EFE-4242-A558-5701D120789E}.Release|Win32.ActiveCfg = Release|Win32
+		{47C2ACE8-1EFE-4242-A558-5701D120789E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

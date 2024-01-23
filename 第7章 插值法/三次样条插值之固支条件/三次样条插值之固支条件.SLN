@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "三次样条插值之固支条件", "三次样条插值之固支条件\三次样条插值之固支条件.vfproj", "{F9C10264-8DE3-4921-961E-F569FA57E678}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9C10264-8DE3-4921-961E-F569FA57E678}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F9C10264-8DE3-4921-961E-F569FA57E678}.Debug|Win32.Build.0 = Debug|Win32
+		{F9C10264-8DE3-4921-961E-F569FA57E678}.Release|Win32.ActiveCfg = Release|Win32
+		{F9C10264-8DE3-4921-961E-F569FA57E678}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "自动变步长Simpson方法", "自动变步长Simpson方法\自动变步长Simpson方法.vfproj", "{2ADFCA61-1A5A-4A87-977B-F4A99A524FE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ADFCA61-1A5A-4A87-977B-F4A99A524FE2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2ADFCA61-1A5A-4A87-977B-F4A99A524FE2}.Debug|Win32.Build.0 = Debug|Win32
+		{2ADFCA61-1A5A-4A87-977B-F4A99A524FE2}.Release|Win32.ActiveCfg = Release|Win32
+		{2ADFCA61-1A5A-4A87-977B-F4A99A524FE2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

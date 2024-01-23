@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "幂法2范数单位化方法", "幂法2范数单位化方法\幂法2范数单位化方法.vfproj", "{030C4BBA-844E-45FD-80AE-866A0172D3FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{030C4BBA-844E-45FD-80AE-866A0172D3FB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{030C4BBA-844E-45FD-80AE-866A0172D3FB}.Debug|Win32.Build.0 = Debug|Win32
+		{030C4BBA-844E-45FD-80AE-866A0172D3FB}.Release|Win32.ActiveCfg = Release|Win32
+		{030C4BBA-844E-45FD-80AE-866A0172D3FB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

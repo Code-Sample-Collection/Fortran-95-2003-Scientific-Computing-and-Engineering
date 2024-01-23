@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "复合Simpson公式", "复合Simpson公式\复合Simpson公式.vfproj", "{5B283A78-D785-49EC-8417-4EA33F3E3E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B283A78-D785-49EC-8417-4EA33F3E3E72}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5B283A78-D785-49EC-8417-4EA33F3E3E72}.Debug|Win32.Build.0 = Debug|Win32
+		{5B283A78-D785-49EC-8417-4EA33F3E3E72}.Release|Win32.ActiveCfg = Release|Win32
+		{5B283A78-D785-49EC-8417-4EA33F3E3E72}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

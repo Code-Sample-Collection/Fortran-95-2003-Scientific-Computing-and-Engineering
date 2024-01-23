@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "三次样条插值之自然边界条件", "三次样条插值之自然边界条件\三次样条插值之自然边界条件.vfproj", "{167894B9-9452-4BE1-A2B9-635886E6CEAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{167894B9-9452-4BE1-A2B9-635886E6CEAB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{167894B9-9452-4BE1-A2B9-635886E6CEAB}.Debug|Win32.Build.0 = Debug|Win32
+		{167894B9-9452-4BE1-A2B9-635886E6CEAB}.Release|Win32.ActiveCfg = Release|Win32
+		{167894B9-9452-4BE1-A2B9-635886E6CEAB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

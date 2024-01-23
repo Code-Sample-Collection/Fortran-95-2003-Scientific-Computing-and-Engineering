@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "牛顿法", "牛顿法\牛顿法.vfproj", "{EBE846A1-54C5-4EFF-A005-BA69052D422C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBE846A1-54C5-4EFF-A005-BA69052D422C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EBE846A1-54C5-4EFF-A005-BA69052D422C}.Debug|Win32.Build.0 = Debug|Win32
+		{EBE846A1-54C5-4EFF-A005-BA69052D422C}.Release|Win32.ActiveCfg = Release|Win32
+		{EBE846A1-54C5-4EFF-A005-BA69052D422C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

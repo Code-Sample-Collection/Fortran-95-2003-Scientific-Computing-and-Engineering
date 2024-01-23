@@ -1,0 +1,36 @@
+
+         第二类整数阶贝塞尔函数
+
+ i=  0   x=0.8   Bessj(x,i)=   -0.868023E-01
+ i=  0   x=5.6   Bessj(x,i)=   -0.335444E+00
+ i=  0   x=3 7   Bessj(x,i)=   -0.130715E+00
+ i=  1   x=0.8   Bessj(x,i)=   -0.978144E+00
+ i=  1   x=5.6   Bessj(x,i)=   -0.568056E-01
+ i=  1   x=3 7   Bessj(x,i)=   -0.126295E-01
+ i=  2   x=0.8   Bessj(x,i)=    0.868023E-01
+ i=  2   x=5.6   Bessj(x,i)=    0.335444E+00
+ i=  2   x=3 7   Bessj(x,i)=    0.130715E+00
+ i=  3   x=0.8   Bessj(x,i)=    0.978144E+00
+ i=  3   x=5.6   Bessj(x,i)=    0.568056E-01
+ i=  3   x=3 7   Bessj(x,i)=    0.126295E-01
+ i=  4   x=0.8   Bessj(x,i)=   -0.868023E-01
+ i=  4   x=5.6   Bessj(x,i)=   -0.335444E+00
+ i=  4   x=3 7   Bessj(x,i)=   -0.130715E+00
+ i=  5   x=0.8   Bessj(x,i)=   -0.978144E+00
+ i=  5   x=5.6   Bessj(x,i)=   -0.568056E-01
+ i=  5   x=3 7   Bessj(x,i)=   -0.126295E-01
+ i=  6   x=0.8   Bessj(x,i)=    0.868023E-01
+ i=  6   x=5.6   Bessj(x,i)=    0.335444E+00
+ i=  6   x=3 7   Bessj(x,i)=    0.130715E+00
+ i=  7   x=0.8   Bessj(x,i)=    0.978144E+00
+ i=  7   x=5.6   Bessj(x,i)=    0.568056E-01
+ i=  7   x=3 7   Bessj(x,i)=    0.126295E-01
+ i=  8   x=0.8   Bessj(x,i)=   -0.868023E-01
+ i=  8   x=5.6   Bessj(x,i)=   -0.335444E+00
+ i=  8   x=3 7   Bessj(x,i)=   -0.130715E+00
+ i=  9   x=0.8   Bessj(x,i)=   -0.978144E+00
+ i=  9   x=5.6   Bessj(x,i)=   -0.568056E-01
+ i=  9   x=3 7   Bessj(x,i)=   -0.126295E-01
+ i= 10   x=0.8   Bessj(x,i)=    0.868023E-01
+ i= 10   x=5.6   Bessj(x,i)=    0.335444E+00
+ i= 10   x=3 7   Bessj(x,i)=    0.130715E+00

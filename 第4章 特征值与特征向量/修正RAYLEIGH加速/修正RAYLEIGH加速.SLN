@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "修正Rayleigh加速", "修正Rayleigh加速\修正Rayleigh加速.vfproj", "{DD9BDBB6-3D77-482D-9269-38C7486A6149}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD9BDBB6-3D77-482D-9269-38C7486A6149}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DD9BDBB6-3D77-482D-9269-38C7486A6149}.Debug|Win32.Build.0 = Debug|Win32
+		{DD9BDBB6-3D77-482D-9269-38C7486A6149}.Release|Win32.ActiveCfg = Release|Win32
+		{DD9BDBB6-3D77-482D-9269-38C7486A6149}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

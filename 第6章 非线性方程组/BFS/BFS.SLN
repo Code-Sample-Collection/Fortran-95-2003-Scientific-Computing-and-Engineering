@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "BFS", "BFS\BFS.vfproj", "{BBDFDCF4-43C5-461A-BA04-71AA59402B60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBDFDCF4-43C5-461A-BA04-71AA59402B60}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BBDFDCF4-43C5-461A-BA04-71AA59402B60}.Debug|Win32.Build.0 = Debug|Win32
+		{BBDFDCF4-43C5-461A-BA04-71AA59402B60}.Release|Win32.ActiveCfg = Release|Win32
+		{BBDFDCF4-43C5-461A-BA04-71AA59402B60}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
